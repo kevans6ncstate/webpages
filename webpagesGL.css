@@ -1,0 +1,22 @@
+/*
+ *Name: Katlyn Evans
+ *UnityID: kevans6
+ *Date: 11/19/2026
+ *Assignment: Guided Lab 4
+ *Description: Guided LAb Assignment, about me webpage
+ */
+ 
+p {
+    font-family: Times;
+	font-size: 16px;
+	color: #DECAFF; 
+}
+
+.table-border {
+    border: 1px solid #DECAFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+	max-height: 300px;
+}
